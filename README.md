@@ -1,4 +1,4 @@
-# Awesome CV [![Example](https://img.shields.io/badge/example-pdf-green.svg)](https://raw.githubusercontent.com/rylanshearn/ry-cv/master/ry-cv.pdf)
+# ry-cv [![Example](https://img.shields.io/badge/example-pdf-green.svg)](https://raw.githubusercontent.com/rylanshearn/ry-cv/master/ry-cv.pdf)
 
 
 [**ry-cv**](https://github.com/rylanshearn/ry-cv) is a LaTeX template for a **CV(Curriculum Vitae)** and **Cover Letter** that is basically the same as [Awesome CV](https://github.com/posquit0/Awesome-CV) only with some class adaptations to make it more suitable for academics (in particular the formatting of publications). 
@@ -13,7 +13,7 @@
 
 ## <a name="previews"></a>Previews
 
-#### Résumé
+#### CV
 
 View the PDF [here](https://raw.githubusercontent.com/rylanshearn/ry-cv/master/ry-cv.pdf)
 
