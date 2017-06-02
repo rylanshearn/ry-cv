@@ -20,6 +20,7 @@ View the PDF [here](https://raw.githubusercontent.com/rylanshearn/ry-cv/master/r
 ![Résumé(Page 1)](https://raw.githubusercontent.com/rylanshearn/ry-cv/master/ry-cv-0.png)
 ![Résumé(Page 2)](https://raw.githubusercontent.com/rylanshearn/ry-cv/master/ry-cv-1.png)
 ![Résumé(Page 3)](https://raw.githubusercontent.com/rylanshearn/ry-cv/master/ry-cv-2.png)
+![Résumé(Page 4)](https://raw.githubusercontent.com/rylanshearn/ry-cv/master/ry-cv-3.png)
 
 #### Cover Letter
 
